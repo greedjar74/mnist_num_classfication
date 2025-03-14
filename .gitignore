@@ -1,0 +1,4 @@
+/resnet18_mnist_epochs_30_best_model.pth
+/resnet18_mnist_epochs_30_last_model.pth
+/resnet18_mnist_model.pth
+/resnet18_mnist_nonaug_model.pth
